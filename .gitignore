@@ -1,0 +1,18 @@
+# LX device data directories (device-specific binary files)
+LX/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+
+# Poetry
+poetry.lock
+
+# Source data (may contain large or personal files)
+source_data/
+
+# OS
+.DS_Store
+Thumbs.db
